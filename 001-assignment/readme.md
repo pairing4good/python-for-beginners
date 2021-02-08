@@ -8,7 +8,7 @@
 1. [00:11:24](https://youtu.be/_uQrJ0TkZlc?t=684) How Long It Takes To Learn Python 
 
 ## Worksheet
-1. Fill in the blanks (`____`) in [worksheet.txt](test/resources/worksheet.txt) as you watch the videos above
+1. Fill in the blanks (`____`) in [worksheet.txt](tests/resources/worksheet.txt) as you watch the videos above
 1. Once you complete the worksheet run the following command to check your work
     1. `./check-worksheet.sh`
 1. Fix any mistakes and [commit](https://github.com/git-guides/git-commit) your changes
