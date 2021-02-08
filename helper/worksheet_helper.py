@@ -18,7 +18,7 @@ def read_parameterized_question_answer(number):
 
 def read(number, file_name):
     dir_path = os.path.dirname(os.path.realpath(__file__))
-    with open(dir_path + '/' + number + "-assignment/tests/resources/" + file_name + '.txt', 'r') as file:
+    with open(dir_path + '/../' + number + "-assignment/tests/resources/" + file_name + '.txt', 'r') as file:
         worksheet = file.read()
     return worksheet.splitlines()
 
