@@ -1,0 +1,8 @@
+Python is one of the most ____ programming languages, and every day people use it to do cool things like ____, they use it in ____, as well as building ____ and websites like ____ and ____.
+PyCharm is considered an IDE, which is short for ____ ____ ____.
+Python interpreter is basically a program that knows how to execute Python code, it will know how to interpret or ____ Python instructions into instructions a ____ can understand.
+...down below, you should see this little ____ window, this is a little window into our program, so here you can see our results for output for our program.
+...python interpreter starts executing or running our program line by line from the ____.
+...anywhere we have quotations like here or here we're defining a ____, a ____ is a programming term which means a series of ____…
+So this (*) is the ____ operator, just like the ____ operator we have in math.
+An ____ is a piece of code that produces a value.

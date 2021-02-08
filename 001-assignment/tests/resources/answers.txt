@@ -1,0 +1,8 @@
+Python is one of the most popular programming languages, and every day people use it to do cool things like automation, they use it in AI, as well as building applications and websites like Instagram and Dropbox.
+PyCharm is considered an IDE, which is short for integrated development environment.
+Python interpreter is basically a program that knows how to execute Python code, it will know how to interpret or translate Python instructions into instructions a computer can understand.
+...down below, you should see this little terminal window, this is a little window into our program, so here you can see our results for output for our program.
+...python interpreter starts executing or running our program line by line from the top.
+...anywhere we have quotations like here or here we're defining a string, a string is a programming term which means a series of characters…
+So this (*) is the multiplication operator, just like the multiplication operator we have in math.
+An expression is a piece of code that produces a value.
